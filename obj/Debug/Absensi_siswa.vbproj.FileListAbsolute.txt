@@ -1,0 +1,12 @@
+E:\Tugas pelajaran produktif\Absensi_siswa\bin\Debug\Absensi_siswa.exe.config
+E:\Tugas pelajaran produktif\Absensi_siswa\bin\Debug\Absensi_siswa.exe
+E:\Tugas pelajaran produktif\Absensi_siswa\bin\Debug\Absensi_siswa.pdb
+E:\Tugas pelajaran produktif\Absensi_siswa\bin\Debug\Absensi_siswa.xml
+E:\Tugas pelajaran produktif\Absensi_siswa\obj\Debug\Absensi_siswa.vbprojAssemblyReference.cache
+E:\Tugas pelajaran produktif\Absensi_siswa\obj\Debug\Absensi_siswa.FormArray.resources
+E:\Tugas pelajaran produktif\Absensi_siswa\obj\Debug\Absensi_siswa.Resources.resources
+E:\Tugas pelajaran produktif\Absensi_siswa\obj\Debug\Absensi_siswa.vbproj.GenerateResource.cache
+E:\Tugas pelajaran produktif\Absensi_siswa\obj\Debug\Absensi_siswa.vbproj.CoreCompileInputs.cache
+E:\Tugas pelajaran produktif\Absensi_siswa\obj\Debug\Absensi_siswa.exe
+E:\Tugas pelajaran produktif\Absensi_siswa\obj\Debug\Absensi_siswa.xml
+E:\Tugas pelajaran produktif\Absensi_siswa\obj\Debug\Absensi_siswa.pdb
